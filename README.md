@@ -43,6 +43,9 @@ This is an inventory and sales control system developed in C# using Windows Form
    - Manage Categories.
    - Manage Users.
    - Manage Orders.
+3. After using the application for a while, it contains a folder called `Backup`, which contains a script to clone your database and you can save the files in another folder in case of an incident.
+   - Pass the following paths of your files `.mdf`, `.log`, and the folder where you want to store them
+   - After that within the code you can manually change the name of the backup file, default = `dbIMS_backuo_DATE.mdf` and `dbIMS_log_backup_`
    
 ## Contributing
 
