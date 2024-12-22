@@ -49,4 +49,4 @@ This is an inventory and sales control system developed in C# using Windows Form
    
 ## Contributing
 
-If you wish to contribute improvements or fixes, send me an email!
+If you have any problems downloading the files or you want to contribute improvements or fixes, send me an email!
