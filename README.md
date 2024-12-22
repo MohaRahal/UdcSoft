@@ -38,14 +38,12 @@ This is an inventory and sales control system developed in C# using Windows Form
 
 1. When the application opens, you will be presented with a login screen (the login credentials must already exist in your database).
 2. After logging in, you can access the main menu, where you'll find options to:
-<span style="color= green;">
    - Manage Product Inventory.
    - Manage Clients.
    - Manage Categories.
    - Manage Users.
    - Manage Orders.
-</span>
-
+   
 ## Contributing
 
 If you wish to contribute improvements or fixes, send me an email!
